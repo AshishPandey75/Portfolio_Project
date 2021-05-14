@@ -53,4 +53,12 @@
         padding: 5px;
     }
 }
-
+@media only screen and (max-width: 360px) {
+    .listing-order:hover{
+        background-color:hotpink;
+        border-radius: 15px;
+        width: 95%;
+        text-align: center;
+        color: #170080;
+    }
+}
