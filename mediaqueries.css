@@ -53,7 +53,7 @@
         padding: 5px;
     }
 }
-@media only screen and (max-width: 560px) {
+@media only screen and (max-width: 760px) {
     .listing-order:hover{
         background-color:hotpink;
         border-radius: 15px;
