@@ -97,7 +97,7 @@ tr td{
 .listing-order:hover{
     background-color:hotpink;
     border-radius: 15px;
-    /* width: 40%; */
+    width: 40%;
     text-align: center;
     color: #170080;
 }
